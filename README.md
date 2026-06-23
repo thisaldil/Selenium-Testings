@@ -1,6 +1,7 @@
 # 🧪 Selenium Test Suite
 
-> [One-line description — what application is being tested, what type of testing, and the framework used]
+> A Selenium-based test automation project designed to validate web application functionality through automated end-to-end testing, improving software quality, reducing manual testing effort, and ensuring reliable user experiences.
+
 
 ![Test Report Banner](./screenshots/report-banner.png)
 <!-- Tip: a screenshot of your Allure/Extent report dashboard works great here -->

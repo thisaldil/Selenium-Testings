@@ -1,4 +1,4 @@
-# 🧪 [Project Name] — Selenium Test Suite
+# 🧪 Selenium Test Suite
 
 > [One-line description — what application is being tested, what type of testing, and the framework used]
 
@@ -39,18 +39,19 @@
 ## 📸 Screenshots & Reports
 
 ### Test Execution Report
-![Test Report](./screenshots/report-overview.png)
+![Test Report](./screenshots/123.png)
 <!-- Screenshot of your Allure / Extent / TestNG HTML report summary -->
 
 ### Pass / Fail Summary
 ![Pass Fail Chart](./screenshots/pass-fail-chart.png)
 
 ### Sample Test Run in Browser
-![Browser Execution](./screenshots/browser-execution.png)
+![Browser Execution](./screenshots/dashboard.png)
+![Browser Execution](./screenshots/dashboard2.png)
 <!-- Screenshot of Selenium driving the browser during a test -->
 
 ### Failed Test Evidence
-![Failed Test Screenshot](./screenshots/failed-test.png)
+![Failed Test Screenshot](./screenshots/image.png)
 <!-- Selenium auto-captures screenshots on failure — show one here -->
 
 > 📁 Add all screenshots to a `/screenshots` folder in your repo root.  
